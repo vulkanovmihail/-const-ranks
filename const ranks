@@ -1,0 +1,5 @@
+<script>
+  function initializeDeck() {
+    const ranks = ['6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
+    const suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades'];
+    const deck = [];
